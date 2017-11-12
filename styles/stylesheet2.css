@@ -30,18 +30,22 @@ img  {
 	width: 10em;
 	height: 10em;
 }
-
+td img {
+	margin: 0 1em 0 0;
+}
 article  {
 	width: 35em;
 	height: 3em;
 	text-align: right;
 	font-size: .7em;
 	float: right;
-	margin: 1em 24em 0 0;
+	margin: 1em 23em 0 0;
 }
 
 h2  {
 	font-family: Cinzel;
+	border-top: .2em solid black;
+	padding-top: .5em;
 	
 }
 

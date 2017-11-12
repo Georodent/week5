@@ -32,6 +32,8 @@ aside h2  {
 	font-family: Cinzel;
 	font-size: 1em;
 	text-align: right;
+	border-top: .1em solid black;
+	padding-top: .5em;
 }
 header h1 {
  
