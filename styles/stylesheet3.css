@@ -1,14 +1,9 @@
-header {
-	background-color: rgb(212, 217, 222);
-	width: 100%;
-	height: 2.5em;
-	margin-top: 3em;
-}
-
 header h1 {
+  background-color: rgb(212, 217, 222);
   font-family: Cinzel;
   font-size: 2.5em;
   padding-left: 5em;
+  margin-top: 1em;
 }
 
 figure  {
@@ -46,16 +41,12 @@ article p  {
 }
 
 .main-nav  {
-  width: 100%;
-  height: 5em;
-  margin-left: 4vw;
-  margin-top: 2vw;
+	margin-left: 3em;
 }
-
 .main-nav li {
   display: inline-block;
   list-style-type: none;
-  margin: .2em 1em 0 .5em;
+  margin: 2em 1em 0 .5em;
   background-color: rgb(212, 217, 222);
   padding: .1em;
 }
