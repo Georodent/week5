@@ -63,3 +63,27 @@ p  {
 section  {
 	clear:both;
 }
+.container h1  {
+  margin-bottom: 1em;
+}
+.carousel-item  {
+  margin-left: 37vw;
+}
+.col-sm  {
+  padding-left: 10%;
+  margin-top: 2em;
+}
+.container_  {
+  width: 100%;
+  background: url(../images/oilfield.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.btn  {
+  background-color: black;
+}
+.col-sm img   {
+  border: 6px solid black;
+}
